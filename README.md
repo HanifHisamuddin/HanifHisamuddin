@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HanifHisamuddin
-- 👀 I’m interested in Software Engineering, Project developments
+- 👀 I’m interested in Software Project developments
 - 🌱 I’m currently learning at University Malaysia Pahang 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me hanhisamuddin@gmail.com
